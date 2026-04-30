@@ -1,6 +1,6 @@
 #  Skills 集合
 
-这个目录包含了为 Trae AI 平台开发的各种 Skills。
+这个目录包含了 AI 平台开发的各种 Skills。
 
 ## 📋 目录
 
